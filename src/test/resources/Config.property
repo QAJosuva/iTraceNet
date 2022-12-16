@@ -1,0 +1,127 @@
+------------------**Brower**------------------------------
+browser=chrome
+url=https://stage.p-collab.com/#/
+registrationurl=https://stage.p-collab.com/#/vendoronboarding/vendorinvite?ky=d3931388-55dd-44d6-ae45-4590f13e8d80&viewType=tabs
+selectType=Company User
+Usename=jashwanth.admin@incresol.com
+password=Incresol@123
+-----------------**DashBoard**--------------------------------
+vendorName=TRL Krosaki Refractories Limited
+vendorType=Invite a new vendor
+-----------------**Create New Vendor**-------------------
+EmailNV=testuser29006one@gmail.com
+VendorNameNV=joshua
+PhoneNumberNV=8125600248
+selectVendorTypeERP=Domestic Vendor 
+planningGroupSearchERP=Plant Vendor 
+VendorGroupSearchERP=Raw Materials 
+attachmentName=PAN Card
+newAttachmentName=Voter ID
+SelectWorkFlow=Master v3 
+-------------
+tx1=Domestic Vendor 
+tx2=Local Crs. for Goods- Raw Mat (Reco)
+
+
+-------------------------------------------------------------------**Registration**----------------------------
+************BasicRegistration****************
+
+BasicDetailslabel=Basic Details 
+natureOfBussinesSearch=Aircraft Construction
+NameOfComapnay= Incresol Software Services Private Limited
+WebSiteURL=Incresol.com
+nameOfPartner=joshua
+registerdAddress=plot no:-57 sainikpuri
+Tittle=Mr
+pointofContactName=joshua
+TypeOfFirm=Company
+designation=Testing
+Email=test@test.com
+ContactNumber=8125600248
+alternativeNumber=8125600248
+
+**********ComapanyOverView****************
+companyOverView=Company Overview
+GeneralDetailsOfGoodandServices=iam testing P-Collab
+ComapanyEstablishedyear=2015
+ComapanyEstablishedmonth=MAR
+grossAnualInocome=500000
+geographicServiceArea=hyderabad
+businessType=local
+CINNumber=U72200TG2011PTC076229
+companyGST=36AACCI7015E1ZW
+tradeName=Incresol
+legalName=Incesol
+additionalInfo=This is an Software Company
+
+***********Aditional Inforamtion************
+
+addressType=Head Office
+countrySearch=India
+stateSearch=Telangana
+city=Hyderabad
+pinCode=500094
+street=Jubilee Hills
+addressLine1=Jubilee Hills1
+addressLine2=Jubilee Hills2
+addressLine3=Jubilee Hills3
+
+***********Collabrotation***************
+RadioButton=Yes
+Name=test
+percentageOfShareHolder=50%
+relationShip=tester
+
+***************Company Details*************
+MSMEOption=Yes
+MSMEREgNo=testing@123
+PFNo=10136222323332
+PANno=Testing	
+nameOnPAN=bskp1036l
+nameOnPAN=Test
+labourLicense=65487564466
+**BankDetails**
+bankName=Canara
+accounttype=Saving Account
+accountNumber=1234567891
+ifscCode=CNRB0013432
+benficaryName=test
+bankCountyseach=India
+bankStateseach=Telangana
+bankCity=Hyderabad
+bankbranch=As Rao Nagar
+bankStreet=near by radika
+bankAddress=Nearby radika Theater
+**Other Details**
+inceptionFacility=Yes
+finacialyear=2020-21
+turnover=1000000
+
+-------------------------**Payment Details**------------------
+countryCodeSearch=India
+currencyCodeSearch=inr
+paymentType=Bank Transfer
+paymentTermsSearch=1 in
+
+----------------------**Attachments**------------------
+documentType=Image
+filePath=C:\\Users\\user\\Downloads\\img.png
+
+--------------**Declaration**-------------
+nameOfApplication=joshua
+companyName=Incresol
+place=hyderabad
+
+
+
+
+
+
+
+
+
+
+
+
+
+
